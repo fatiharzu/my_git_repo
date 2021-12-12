@@ -8,8 +8,7 @@ Hi How are you
 
 Hey I am good
 
-<<<<<<< HEAD
 I clean the code 
 Team you can update your code as well
-=======
->>>>>>> ff91f3955faba3c31f055e0ca35868cd80845164
+
+
